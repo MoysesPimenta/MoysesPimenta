@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 <h1 align="center"> MOyses Pimenta </h1>
 
 <p align="center">
