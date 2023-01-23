@@ -15,10 +15,10 @@ This is my personal social media, feel free to connect. 👨‍💻<br/>
 
 
 ## 💻 - 📫 How to reach me: 
-[Instagram](<https://www.instagram.com/moysespimenta/>)
-[LinkedIn](<https://www.linkedin.com/in/mosheyowork/>)
-[Github](<https://github.com/MoysesPimenta>)
-[Facebook](<https://www.facebook.com/benmuyalmoshe>)
+[Instagram](<https://www.instagram.com/moysespimenta/>)<br>
+[LinkedIn](<https://www.linkedin.com/in/mosheyowork/>)<br>
+[Github](<https://github.com/MoysesPimenta>)<br>
+[Facebook](<https://www.facebook.com/benmuyalmoshe>)<br>
 
 
 Moyses Pimenta ©️
