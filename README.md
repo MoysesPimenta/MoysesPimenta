@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> MOyses Pimenta </h1>
+<h1 align="center"> Moyses Pimenta </h1>
 
 <p align="center">
 This is my personal social media, feel free to connect. 👨‍💻<br/>
