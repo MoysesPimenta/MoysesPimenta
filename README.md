@@ -1,16 +1,26 @@
 ### Hi there 👋
 
 <!--
-**MoysesPimenta/MoysesPimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> MOyses Pimenta </h1>
 
-Here are some ideas to get you started:
+<p align="center">
+This is my personal social media, feel free to connect. 👨‍💻<br/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 - I’m currently learning ...
+
+- HTML & CSS
+- JavaScript
+- Git & Github
+- Figma
+- React
+
+
+## 💻 - 📫 How to reach me: 
+[Instagram](<https://www.instagram.com/moysespimenta/>)
+[LinkedIn](<https://www.linkedin.com/in/mosheyowork/>)
+[Github](<https://github.com/MoysesPimenta>)
+[Facebook](<https://www.facebook.com/benmuyalmoshe>)
+
+
+Moyses Pimenta ©️
